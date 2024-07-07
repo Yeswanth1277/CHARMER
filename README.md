@@ -1,1 +1,1 @@
-# CHARMER_
+# CHARMER - A multimedia-based application software
